@@ -1,3 +1,4 @@
 {
-  "root": "ranking/"
+  "root": "ranking/",
+  "encoding": "ISO-8859-1"
 }
